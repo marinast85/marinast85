@@ -1,5 +1,11 @@
-### Hi there 👋🌎
-### I'm Marina Silveira Toledo but you call me just Mari 😊
+### Hi there 👋 My name is Marina but you’re my guest to call me Mari if you want to 😊
+
+### You can talk to me in:
+
+* Portuguese (totally fluent)
+* English (advanced speaker even though sometimes I can make some little mistakes)
+
+### A little bit about me and what I’m looking for here:
 
 - 🌱 I’m currently learning Web Full Stack Developer.
 - 🤔 I’m looking for help with Front-End knowledge like HTML5, CSS3, Javascript, and frameworks like Bootstrap, JQuery, Angular, ReactJS and anything that can be connected with Front-End Development.
