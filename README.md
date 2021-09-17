@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web Full Stack Developer.
 - 🤔 I’m looking for help with Front-End knowledge like HTML5, CSS3, Javascript, and frameworks like Bootstrap, JQuery, Angular, ReactJS and anything that can be connected with Front-End Development.
-- 😉 I´m also interested in Web Desinger even though I haven´t started to studied it yet. 
+- 😉 I’m also interested in Web Desinger even though I haven’t started to study it yet. 
 - 📫 How to reach me: m.stoledo85@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love swimming 🏊🏼‍♀️ and football ⚽ (I'm a big fan of Palmeiras team 💚).
