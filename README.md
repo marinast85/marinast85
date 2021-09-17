@@ -4,6 +4,7 @@
 
 * Portuguese (totally fluent)
 * English (advanced speaker even though sometimes I can make some little mistakes)
+* Spanish (I can keep a basic conversation but not boring)
 
 ### A little bit about me and what I’m looking for here:
 
