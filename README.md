@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Marina but you’re my guest to call me Mari if you want to 😊
+### Hi there 👋 My name is Marina but feel free to call me Mari if you want to 😊
 
 ### You can talk to me in:
 
