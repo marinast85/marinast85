@@ -37,7 +37,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
     <a href="https://www.linkedin.com/in/marina-silveira-toledo-43289235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     <a href = "5511939305757"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a>
       
-       ![Snake animation](https://github.com/marinast85/marinast85/blob/output/github-contribution-grid-snake.svg)
+       ![Snake animation](https://github.com/marinast85/marinast85/blob/output/github-contribution-grid-snake.svg);
       
   </div>
   
