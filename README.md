@@ -8,9 +8,9 @@
 
 ### A little bit about me and what I’m looking for here:
 
-- 🌱 I’m currently learning Web Full Stack Development.
-- 🤔 I’m looking for help with Front-End knowledge like HTML5, CSS3, Javascript, and frameworks like Bootstrap, JQuery, Angular, ReactJS and anything else that can be connected to Front-End Development.
-- 😉 I’m also interested in Web Designer even though I haven’t started to study it yet. 
+ 🌱 Currently working as System Analyst.
+- 🤔 Learning and studying CSharp.
+- 😉 Interested in anything related to developed. 
 - 📫 How to reach me: m.stoledo85@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love swimming 🏊🏼‍♀️ and football ⚽ (I'm a big fan of Palmeiras team 💚).
