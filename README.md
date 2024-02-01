@@ -10,7 +10,7 @@
 
  🌱 Currently working as System Analyst.
 - 🤔 Learning and studying CSharp.
-- 😉 Interested in anything related to developed. 
+- 😉 Interested in anything related to software engineering. 
 - 📫 How to reach me: m.stoledo85@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love swimming 🏊🏼‍♀️ and football ⚽ (I'm a big fan of Palmeiras team 💚).
