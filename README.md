@@ -8,7 +8,7 @@
 
 ### A little bit about me and what I’m looking for here:
 
- 🌱 Currently working as System Analyst.
+- 🌱 Currently working as System Analyst.
 - 🤔 Learning and studying CSharp.
 - 😉 Interested in anything related to software engineering. 
 - 📫 How to reach me: m.stoledo85@gmail.com
