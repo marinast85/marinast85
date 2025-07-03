@@ -9,8 +9,7 @@
 ### A little bit about me and what I’m looking for here:
 
 - 🌱 Currently working as System Analyst.
-- 🤔 Learning and studying CSharp.
-- 😉 Interested in anything related to software engineering. 
+- 😉 Interested in anything related to software engineering and data. 
 - 📫 How to reach me: m.stoledo85@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love swimming 🏊🏼‍♀️ and football ⚽ (I'm a big fan of Palmeiras team 💚).
